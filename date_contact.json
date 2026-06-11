@@ -1,16 +1,975 @@
 {
   "Mănăstirea Putna": {
-    "phone": "0230414055",
+    "phone": "0230 414 055",
     "website": "www.putna.ro",
-    "email": "contact@putna.ro"
+    "email": "manastirea@putna.ro"
+  },
+  "Mănăstirea Voroneț": {
+    "phone": "0735 852 111",
+    "website": "www.manastireavoronet.ro",
+    "email": "contact@manastireavoronet.ro"
+  },
+  "Mănăstirea Sucevița": {
+    "phone": "0230 417 110",
+    "website": "",
+    "email": "manastireasucevita@gmail.com"
+  },
+  "Mănăstirea Moldovița": {
+    "phone": "0230 336 348",
+    "website": "",
+    "email": "manastireamoldovita@gmail.com"
+  },
+  "Mănăstirea Humor": {
+    "phone": "0230 231 411",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Probota": {
+    "phone": "0230 571 433",
+    "website": "www.probota.ro",
+    "email": "manastirea_probota@yahoo.com"
+  },
+  "Mănăstirea Dragomirna": {
+    "phone": "0741 348 348",
+    "website": "manastireadragomirna.ro",
+    "email": "mdragomirna@gmail.com"
+  },
+  "Mănăstirea Neamț": {
+    "phone": "0233 251 580",
+    "website": "neamt.mmb.ro",
+    "email": "neamt@mmb.ro"
+  },
+  "Mănăstirea Agapia": {
+    "phone": "0233 244 736",
+    "website": "agapia.mmb.ro",
+    "email": "agapia@mmb.ro"
+  },
+  "Mănăstirea Văratec": {
+    "phone": "0233 244 616",
+    "website": "www.manastireavaratic.ro",
+    "email": "varaticmanastirea@gmail.com"
+  },
+  "Mănăstirea Bistrița (Neamț)": {
+    "phone": "0233 241 695",
+    "website": "bistrita.mmb.ro",
+    "email": "bistrita@mmb.ro"
+  },
+  "Mănăstirea Sihăstria": {
+    "phone": "0233 251 896",
+    "website": "sihastria.mmb.ro",
+    "email": "sihastria@mmb.ro"
+  },
+  "Mănăstirea Secu": {
+    "phone": "0233 251 862",
+    "website": "secu.mmb.ro",
+    "email": "secu@mmb.ro"
+  },
+  "Mănăstirea Cozia": {
+    "phone": "0250 750 852",
+    "website": "cozia.arhiepiscopiaramnicului.ro",
+    "email": "contact@manastireacozia.ro"
+  },
+  "Mănăstirea Horezu": {
+    "phone": "0250 860 071",
+    "website": "",
+    "email": "manastirea.hurezi@gmail.com"
+  },
+  "Mănăstirea Tismana": {
+    "phone": "0253 374 317",
+    "website": "www.manastirea-tismana.ro",
+    "email": ""
+  },
+  "Mănăstirea Lainici": {
+    "phone": "0253 463 333",
+    "website": "www.manastirea-lainici.ro",
+    "email": "manastirealainici@yahoo.com"
+  },
+  "Mănăstirea Polovragi": {
+    "phone": "0253 476 196",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Arnota": {
+    "phone": "0745 075 225",
+    "website": "",
+    "email": "mon_arnota@yahoo.com"
+  },
+  "Mănăstirea Bistrița (Vâlcea)": {
+    "phone": "0250 863 327",
+    "website": "manastireabistrita.ro",
+    "email": "monbistrita@yahoo.com"
+  },
+  "Mănăstirea Govora": {
+    "phone": "0250 770 342",
+    "website": "manastireagovora.arhiepiscopiaramnicului.ro",
+    "email": "govora@arhiepiscopiaramnicului.ro"
+  },
+  "Mănăstirea Dintr-un Lemn": {
+    "phone": "0250 765 224",
+    "website": "www.manastireadintrunlemn.ro",
+    "email": "mdintrunlemn1@yahoo.com"
+  },
+  "Mănăstirea Turnu": {
+    "phone": "0250 750 851",
+    "website": "",
+    "email": "manastireaturnu@arhiepiscopiaramnicului.ro"
+  },
+  "Mănăstirea Strehaia": {
+    "phone": "0252 370 942",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Curtea de Argeș": {
+    "phone": "0248 721 735",
+    "website": "eparhiaargesului.ro",
+    "email": "episcopiaargesului@yahoo.com"
+  },
+  "Mănăstirea Negru Vodă": {
+    "phone": "0248 510 750",
+    "website": "",
+    "email": "manastirea.negruvoda@yahoo.com"
+  },
+  "Mănăstirea Prislop": {
+    "phone": "0756 083 435",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sâmbăta de Sus": {
+    "phone": "0770 314 635",
+    "website": "www.manastireabrancoveanu.ro",
+    "email": "manastireabrancoveanu@gmail.com"
+  },
+  "Mănăstirea Râmeț": {
+    "phone": "0258 880 111",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Nicula": {
+    "phone": "0264 241 835",
+    "website": "www.manastireanicula.ro",
+    "email": "manastireaniculasecretariat@yahoo.com"
+  },
+  "Mănăstirea Rohia": {
+    "phone": "0262 466 241",
+    "website": "www.manastirea-rohia.ro",
+    "email": "cancelarie@manastirea-rohia.ro"
+  },
+  "Mănăstirea Bârsana": {
+    "phone": "0262 331 101",
+    "website": "manastireabarsana.ro",
+    "email": ""
+  },
+  "Mănăstirea Săpânța-Peri": {
+    "phone": "0262 372 524",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cernica": {
+    "phone": "021 351 17 37",
+    "website": "manastireacernica.ro",
+    "email": "contact@manastireacernica.ro"
+  },
+  "Mănăstirea Pasărea": {
+    "phone": "021 352 42 11",
+    "website": "www.manastireapasarea.ro",
+    "email": "contact@manastireapasarea.ro"
+  },
+  "Mănăstirea Cheia": {
+    "phone": "0726 961 081",
+    "website": "www.manastireacheia.ro",
+    "email": "manastirea.cheia@gmail.com"
+  },
+  "Mănăstirea Sinaia": {
+    "phone": "0244 314 917",
+    "website": "www.manastireasinaia.ro",
+    "email": "protovaris@yahoo.com"
+  },
+  "Mănăstirea Caraiman": {
+    "phone": "0244 320 152",
+    "website": "www.manastireacaraiman.ro",
+    "email": "ma.caraiman@gmail.com"
+  },
+  "Mănăstirea Ghighiu": {
+    "phone": "0244 384 951",
+    "website": "www.manastireaghighiu.ro",
+    "email": "manastirea.ghighiu@yahoo.com"
+  },
+  "Mănăstirea Celic Dere": {
+    "phone": "0785 716 454",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Dervent": {
+    "phone": "0758 085 822",
+    "website": "dervent.ro",
+    "email": "manastirea_dervent2003@yahoo.com"
+  },
+  "Mănăstirea Techirghiol": {
+    "phone": "0729 049 319",
+    "website": "www.sfanta-maria.ro",
+    "email": "manastirea.sfmaria@yahoo.com"
+  },
+  "Mănăstirea Antim": {
+    "phone": "0749 052 249",
+    "website": "manastireaantim.ro",
+    "email": "manastirea.antim@gmail.com"
+  },
+  "Mănăstirea Radu Vodă": {
+    "phone": "031 425 25 26",
+    "website": "www.manastirearaduvoda.ro",
+    "email": "cancelaria@manastirearaduvoda.ro"
+  },
+  "Mănăstirea Stavropoleos": {
+    "phone": "021 313 47 47",
+    "website": "www.stavropoleos.ro",
+    "email": "manastireastavropoleos@gmail.com"
+  },
+  "Mănăstirea Peștera Ialomiței": {
+    "phone": "0763 746 141",
+    "website": "arhiepiscopiatargovistei.ro",
+    "email": ""
+  },
+  "Mănăstirea Peștera Sfântului Andrei": {
+    "phone": "0241 856 485",
+    "website": "arhiepiscopiatomisului.ro",
+    "email": ""
+  },
+  "Biserica Neagră": {
+    "phone": "0268 511 824",
+    "website": "biserica-neagra.ro",
+    "email": "info@biserica-neagra.ro"
+  },
+  "Catedrala Mântuirii Neamului": {
+    "phone": "0799 887 955",
+    "website": "catedrala-nationala.ro",
+    "email": "ctitor@catedralaneamului.ro"
+  },
+  "Catedrala Patriarhală": {
+    "phone": "021 336 98 33",
+    "website": "patriarhia.ro",
+    "email": "cancelaria@patriarhia.ro"
+  },
+  "Biserica Curtea Veche": {
+    "phone": "021 313 23 27",
+    "website": "www.biserica-sfantul-anton.ro",
+    "email": ""
+  },
+  "Biserica Kretzulescu": {
+    "phone": "0727 781 718",
+    "website": "www.parohiakretzulescu.ro",
+    "email": "contact@parohiakretzulescu.ro"
+  },
+  "Catedrala Mitropolitană din Sibiu": {
+    "phone": "0269 520 506",
+    "website": "www.mitropolia-ardealului.ro",
+    "email": "secretariat@mitropolia-ardealului.ro"
+  },
+  "Catedrala Mitropolitană din Timișoara": {
+    "phone": "0256 490 287",
+    "website": "mitropolia-banatului.ro",
+    "email": "secretariat@arhiepiscopiatimisoarei.ro"
+  },
+  "Catedrala Adormirea Maicii Domnului din Cluj": {
+    "phone": "0264 431 004",
+    "website": "www.mitropolia-clujului.ro",
+    "email": "secretariat@mitropolia-clujului.ro"
+  },
+  "Catedrala Mitropolitană din Iași": {
+    "phone": "0232 215 454",
+    "website": "catedralamitropolitanaiasi.mmb.ro",
+    "email": "catedralamitropolitanaiasi@mmb.ro"
+  },
+  "Biserica Sfinții Trei Ierarhi": {
+    "phone": "0752 277 876",
+    "website": "www.manastireasftreiierarhi.ro",
+    "email": "sfintiitreiierarhi@mmb.ro"
+  },
+  "Catedrala Încoronării din Alba Iulia": {
+    "phone": "0258 811 690",
+    "website": "www.reintregirea.ro",
+    "email": "arhiepiscopia.albaiulia@gmail.com"
+  },
+  "Catedrala Sfântul Mihail": {
+    "phone": "0264 592 089",
+    "website": "szentmihalytemplom.ro",
+    "email": "iroda@szmk.ro"
+  },
+  "Biserica Sfântul Nicolae": {
+    "phone": "0268 512 421",
+    "website": "",
+    "email": ""
+  },
+  "Catedrala Arhiepiscopală din Târgoviște": {
+    "phone": "0245 213 713",
+    "website": "www.arhiepiscopiatargovistei.ro",
+    "email": "cancelaria@arhtgv.ro"
+  },
+  "Biserica din Densuș": {
+    "phone": "0720 010 952",
+    "website": "",
+    "email": "ovidiunicolaecoman@yahoo.com"
+  },
+  "Catedrala cu Lună": {
+    "phone": "0259 434 246",
+    "website": "www.bisericaculuna.ro",
+    "email": "contact@bisericaculuna.ro"
+  },
+  "Catedrala Sfinții Petru și Pavel": {
+    "phone": "0241 582 910",
+    "website": "arhiepiscopiatomisului.ro",
+    "email": "eclesiarhie@catedralatomisului.ro"
+  },
+  "Biserica Sfântul Gheorghe": {
+    "phone": "021 314 73 35",
+    "website": "www.sfantulgheorghenou.ro",
+    "email": "sfantulgheorghenou@gmail.com"
+  },
+  "Mănăstirea Boia": {
+    "phone": "0350 403 140",
+    "website": "www.arhiram.ro",
+    "email": "manastireaboia@gmail.com"
+  },
+  "Mănăstirea Arbore": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Râșca": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Adămești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Brebu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Bârnova": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Chiajna": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cocoșu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cotmeana": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Crasna (județul Prahova)": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cârța": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Căldărușani": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cămărășeasca": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Dealu Mare": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Dobrovăț": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Fâstâci": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Galata": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Golia": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Jitianu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Mihai Vodă": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Morunglavu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Măxineni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Nămăești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Plătărești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Poiana Mărului": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Popăuți": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Predeal": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Rătești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfânta Treime (Strâmba)": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sărăcinești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Tazlău": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Vodița": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Vărbila": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Zamca": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Zamfira": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Uspenia": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Almaș": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Bociulești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Celic-Dere": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cornet": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Crasna": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Călugăra": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Dornelor": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea franciscană din Baia de Criș": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Mărcuța": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea minoriților din Târgu Secuiesc": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Partoș": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Mărgineni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Negoiești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfânta Ana": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cârnu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Franciscană din Lăzarea": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Durău": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Horaița": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Maglavit": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Nechit": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Plumbuita": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Războieni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Samurcășești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sadova": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfinții Voievozi din Slobozia": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfântul Simion Stâlpnicul": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Văcărești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Corbii de Piatră": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Pângărați": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Stelea": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Vărzărești": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Schitul Pahomie": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Hodoș-Bodrog": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Bogdana": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Franciscană din Miercurea Ciuc": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Vechea reședință a iezuiților din Cluj": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Slatina": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Bezdin": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sihăstria Voronei": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Slătioara": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sitaru": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Săraca": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Stânișoara": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Suzana": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Trivale": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Topolnița": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Toplița": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Vișina": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Viforâta": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea minorită din Bistrița": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Țigănești (România)": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Schitul Ostrov": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfântul Gheorghe": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Petru Vodă": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Baia de Aramă": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfinții Trei Ierarhi din Iași": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfântul Ioan cel Nou din Suceava": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Biserica Franciscană din Brașov": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfânta Treime": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Igriș": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Biserica Stavropoleos": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Bistrița": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea de la Brebu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Ciolanu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Comana": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Coșoteni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Biserica Franciscană din Mediaș": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Chiajna-Giulești din București": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea capucinilor din Oradea": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Castelul Karoly, azi mănăstirea ortodoxă „Sf. Împ. Constantin și Elena”": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Fosta mănăstire Vărbila": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Voivodeni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Mânăstirea Soveja": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Mraconia": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Snagov": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Dealu": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Cetățuia din Iași": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Baziaș": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Glavacioc": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Plăviceni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Podgoria Copou": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Hagigadar": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Biserica Sfântul Anton de Padova din Târgu Mureș": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Bizere": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Brâncoveni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea minoriților": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Nucet": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfinții Martiri Brâncoveni": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Jiana": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sirinia": {
+    "phone": "",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sf. Dionisie s̗i Efrem cel Nou": {
+    "phone": "",
+    "website": "",
+    "email": ""
   },
   "Pensiunea Maria": {
     "phone": "0744123456",
-    "website": "pensiuneamaria.ro"
+    "website": "https://pensiuneamaria.ro"
+  },
+  "Casa Pelerinul": {
+    "phone": "0722000111",
+    "email": "rezervari@casapelerinul.ro"
   },
   "Pensiunea Mușatinii": {
-    "phone": "0744 631 345",
-    "website": "www.pensiuneamusatinii.ro",
+    "phone": "Mobil: 0744 631 345 ; Fix: 0230 414 444",
+    "website": "https://www.pensiuneamusatinii.ro",
     "email": "office@pensiuneamusatinii.ro"
   }
 }
