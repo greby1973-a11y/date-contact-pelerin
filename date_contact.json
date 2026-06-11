@@ -11,5 +11,12 @@
   "Casa Pelerinul": {
     "phone": "0722000111",
     "email": "rezervari@casapelerinul.ro"
+  },
+  {
+  "Pensiunea Mușatinii": {
+    "phone": "0744 631 345; 0230 414 444",
+    "website": "https://www.pensiuneamusatinii.ro",
+    "email": "office@pensiuneamusatinii.ro"
   }
+}
 }
