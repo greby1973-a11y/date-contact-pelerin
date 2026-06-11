@@ -130,7 +130,7 @@
     "email": "manastirea.negruvoda@yahoo.com"
   },
   "Mănăstirea Prislop": {
-    "phone": "0756 083 435",
+    "phone": "0738224144",
     "website": "",
     "email": ""
   },
@@ -270,9 +270,9 @@
     "email": "secretariat@arhiepiscopiatimisoarei.ro"
   },
   "Catedrala Adormirea Maicii Domnului din Cluj": {
-    "phone": "0264 431 004",
+    "phone": "0788414695",
     "website": "www.mitropolia-clujului.ro",
-    "email": "secretariat@mitropolia-clujului.ro"
+    "email": "petrutanase360@gmail.com"
   },
   "Catedrala Mitropolitană din Iași": {
     "phone": "0232 215 454",
@@ -295,9 +295,9 @@
     "email": "iroda@szmk.ro"
   },
   "Biserica Sfântul Nicolae": {
-    "phone": "0268 512 421",
+    "phone": "0740697450",
     "website": "",
-    "email": ""
+    "email": "teofil_serban@yahoo.com"
   },
   "Catedrala Arhiepiscopală din Târgoviște": {
     "phone": "0245 213 713",
@@ -320,13 +320,13 @@
     "email": "eclesiarhie@catedralatomisului.ro"
   },
   "Biserica Sfântul Gheorghe": {
-    "phone": "021 314 73 35",
+    "phone": "0747410112",
     "website": "www.sfantulgheorghenou.ro",
-    "email": "sfantulgheorghenou@gmail.com"
+    "email": "m.bunesti@yahoo.com"
   },
   "Mănăstirea Boia": {
     "phone": "0350 403 140",
-    "website": "https://parohiagreblesti.ro/manastirea-boia/",
+    "website": "www.arhiram.ro",
     "email": "manastireaboia@gmail.com"
   },
   "Mănăstirea Arbore": {
@@ -539,11 +539,6 @@
     "website": "",
     "email": ""
   },
-  "Mănăstirea franciscană din Baia de Criș": {
-    "phone": "",
-    "website": "",
-    "email": ""
-  },
   "Mănăstirea Mărcuța": {
     "phone": "",
     "website": "",
@@ -575,11 +570,6 @@
     "email": ""
   },
   "Mănăstirea Cârnu": {
-    "phone": "",
-    "website": "",
-    "email": ""
-  },
-  "Mănăstirea Franciscană din Lăzarea": {
     "phone": "",
     "website": "",
     "email": ""
@@ -674,11 +664,6 @@
     "website": "",
     "email": ""
   },
-  "Mănăstirea Franciscană din Miercurea Ciuc": {
-    "phone": "",
-    "website": "",
-    "email": ""
-  },
   "Mănăstirea Vechea reședință a iezuiților din Cluj": {
     "phone": "",
     "website": "",
@@ -765,7 +750,7 @@
     "email": ""
   },
   "Mănăstirea Sfântul Gheorghe": {
-    "phone": "",
+    "phone": "0772107906",
     "website": "",
     "email": ""
   },
@@ -789,15 +774,10 @@
     "website": "",
     "email": ""
   },
-  "Mănăstirea Biserica Franciscană din Brașov": {
-    "phone": "",
-    "website": "",
-    "email": ""
-  },
   "Mănăstirea Sfânta Treime": {
-    "phone": "",
+    "phone": "0724042212",
     "website": "",
-    "email": ""
+    "email": "manastirea.poianabrasov@yahoo.com"
   },
   "Mănăstirea Igriș": {
     "phone": "",
@@ -830,11 +810,6 @@
     "email": ""
   },
   "Mănăstirea Coșoteni": {
-    "phone": "",
-    "website": "",
-    "email": ""
-  },
-  "Mănăstirea Biserica Franciscană din Mediaș": {
     "phone": "",
     "website": "",
     "email": ""
@@ -971,5 +946,135 @@
     "phone": "Mobil: 0744 631 345 ; Fix: 0230 414 444",
     "website": "https://www.pensiuneamusatinii.ro",
     "email": "office@pensiuneamusatinii.ro"
+  },
+  "Mănăstirea  Adormirea Maicii Domnului (Sf. C-tin Brâncoveanu)": {
+    "phone": "0770314635",
+    "website": "",
+    "email": "manastireabrancoveanu@yahoo.com"
+  },
+  "Mănăstirea  Naşterea Maicii Domnului  – Făget": {
+    "phone": "0758067908",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea  Sfântul Apostol Andrei": {
+    "phone": "0722750004",
+    "website": "berivoio.tripod.com",
+    "email": "berivoi@excite.com"
+  },
+  "Mănăstirea  Schimbarea la Faţă a Domnului": {
+    "phone": "0720761176",
+    "website": "",
+    "email": "manastire@bucium.ro"
+  },
+  "Mănăstirea  Acoperământul Maicii Domnului": {
+    "phone": "0727082253",
+    "website": "",
+    "email": "manastireadejani@yahoo.com"
+  },
+  "Mănăstirea  Sfântul Ioan Botezătorul": {
+    "phone": "0724042212",
+    "website": "",
+    "email": "manastirea.poianabrasov@yahoo.com"
+  },
+  "Mănăstirea  Sf. Pantelimon  – Colţul Chiliilor": {
+    "phone": "0721664348",
+    "website": "",
+    "email": "nicodimbusioc@yahoo.com"
+  },
+  "Mănăstirea  Soborul Sfinţilor Apostoli  - Bran": {
+    "phone": "0724828095",
+    "website": "",
+    "email": ""
+  },
+  "Schitul  Sf. Ioan Botezătorul  (Radu Negru)": {
+    "phone": "0769281539",
+    "website": "",
+    "email": ""
+  },
+  "Schitul  Înălțarea Domnului": {
+    "phone": "0744592124",
+    "website": "",
+    "email": ""
+  },
+  "Schitul  Duminica Tuturor Sfinţilor": {
+    "phone": "0731950895",
+    "website": "",
+    "email": ""
+  },
+  "Schitul  Sfinţii Împăraţi Constantin şi Elena": {
+    "phone": "0749129886",
+    "website": "",
+    "email": ""
+  },
+  "Schitul  Sfântul Efrem cel Nou": {
+    "phone": "0735172037",
+    "website": "",
+    "email": "sfantulefremcelnou@gmail.com"
+  },
+  "Schitul  Sfântul Ierarh Nicolae": {
+    "phone": "0724009265",
+    "website": "",
+    "email": ""
+  },
+  "Schitul  Buna-vestire": {
+    "phone": "0751368670",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea  Sf. Ap. Petru și Pavel": {
+    "phone": "0744854562",
+    "website": "",
+    "email": "manastireacartisoara@yahoo.com"
+  },
+  "Mănăstirea Nașterea Maicii Domnului": {
+    "phone": "0752483665",
+    "website": "",
+    "email": "ecaterinamaica@yahoo.com."
+  },
+  "Mănăstirea Sf. Treime": {
+    "phone": "0763027408",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sf. Proroc Ilie": {
+    "phone": "0742975818",
+    "website": "",
+    "email": "pr.porfirios@yahoo.com"
+  },
+  "Mănăstirea Înălțarea Sfintei Cruci": {
+    "phone": "0738224144",
+    "website": "",
+    "email": ""
+  },
+  "Mănăstirea Sfântul Gherasim": {
+    "phone": "0749836964",
+    "website": "",
+    "email": "manastireasfgherasim@gmail.com"
+  },
+  "Schitul Schimbarea la Față a Domnului Păltiniș": {
+    "phone": "0761784424",
+    "website": "",
+    "email": "vasile.valeriu@gmail.com"
+  },
+  "Schitul Sf. M. Mc. Gheorghe – Foltea": {
+    "phone": "0749657671",
+    "website": "",
+    "email": "schitul.foltea@gmail.com"
+  },
+  "Schitul Sf. Ioan Iacob Hozevitul": {
+    "phone": "0745301475",
+    "website": "",
+    "email": "mtheologia@yahoo.com"
+  },
+  "Schitul Sf. Serafim de Sarov": {
+    "phone": "0763585597",
+    "website": "",
+    "email": ""
+  },
+  "Schitul  Sf. M. Mc. Mina și Sf. Trifon": {
+    "phone": "0753951855",
+    "website": "",
+    "email": ""
   }
 }
