@@ -1,20 +1,16 @@
 {
   "Mănăstirea Putna": {
     "phone": "0230414055",
-    "website": "https://www.putna.ro",
+    "website": "www.putna.ro",
     "email": "contact@putna.ro"
   },
   "Pensiunea Maria": {
     "phone": "0744123456",
-    "website": "https://pensiuneamaria.ro"
-  },
-  "Casa Pelerinul": {
-    "phone": "0722000111",
-    "email": "rezervari@casapelerinul.ro"
+    "website": "pensiuneamaria.ro"
   },
   "Pensiunea Mușatinii": {
-    "phone": "Mobil: 0744 631 345 ; Fix: 0230 414 444",
-    "website": "https://www.pensiuneamusatinii.ro",
+    "phone": "0744 631 345",
+    "website": "www.pensiuneamusatinii.ro",
     "email": "office@pensiuneamusatinii.ro"
   }
 }
